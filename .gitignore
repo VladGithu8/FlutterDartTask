@@ -33,9 +33,9 @@
 /android/
 /ios/
 /test/
-#.metadata
-#pubspec.yaml
-#pubspec.lock
+.metadata
+pubspec.yaml
+pubspec.lock
 
 # Web related
 lib/generated_plugin_registrant.dart
